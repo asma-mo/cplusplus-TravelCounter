@@ -1,4 +1,4 @@
-# C++ (Travel-calculater)
+# C++ (Travel-counter)
 Interest Of The Program:
   If you want to travel to one of the most famous cities in Saudi Arabia, Travel Counter program will give you
   the trip time, which is helping the traveler to count the trip time in easily and smoothly way by using C++ program.
