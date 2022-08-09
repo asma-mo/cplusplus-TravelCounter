@@ -14,7 +14,7 @@ How It Will Work:
 
 Result:
 
-Part1)
+Part1:
 
 Do You Want To Travel By A Plane(1) Or A Car(2)?
 2
@@ -28,7 +28,7 @@ Your Trip Will Take About 5:30 Hours
 
 <img width="122" alt="image" src="https://user-images.githubusercontent.com/95943708/183732458-b255edb4-8a0d-4976-ab0d-e3ed24fc5cce.png">
 
-Part2)
+Part2:
 
  Do You Want To Travel By A Plane(1) Or A Car(2)?
 1
